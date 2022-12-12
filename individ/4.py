@@ -21,4 +21,4 @@ if __name__ == '__main__':
         S += a
         n += 1
 
-print(f"Es({x}) = {EULER + math.log(math.fabs(x)) + S}")
+print(f"Shi{x} = {S}")
